@@ -5,7 +5,8 @@
 
 >Trilha explorer
 
-Projeto constrido com aprendizados em vídeo aulas, e conteúdos variados, para o meu desenvolvimento.
+Projeto construido com aprendizados em vídeo aulas, e conteúdos variados, para o meu desenvolvimento.
+
 >Desbravando a programação!.
 
 [Clique aqui para acessar](https://gracih.github.io/Treine.me/)
@@ -15,6 +16,13 @@ Projeto constrido com aprendizados em vídeo aulas, e conteúdos variados, para 
 -HTML
 
 -CSS
+
+<br>
+
+## Plus
+
+###
+*Como solucionar déficits iguais com soluções diferentes
 
 ### ✉ Contato 
 gracielle@outlook.com
